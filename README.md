@@ -4,4 +4,10 @@ I am professor of [Industrial Engineering](https://www.dii.uchile.cl/)  at the [
 
 This github page includes:
 
-- Teaching material: Check the 
+- Teaching material: Check [hands-on-analytics](https://maolivar.github.io/hands-on-analytics/)
+- Research projects: To be included soon...
+
+Other links:
+
+[My Homepage](http://www.marcelo-olivares.com)
+
