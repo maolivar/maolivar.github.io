@@ -2,7 +2,7 @@
 
 I am an Associate Professor of [Industrial Engineering](https://www.dii.uchile.cl/)  at the [University of Chile](https://www.uchile.cl/) and researcher at [Instituto Sistemas Complejos de Ingenieria](https://isci.cl/en/). I am also an Associate Adjunct Professor at [Columbia Business School](https://business.columbia.edu/faculty/divisions/dro).
 
-My research focuses on empirical research in Operations Management, with applications in service industries, healthcare and the public sector.
+My research focuses on empirical research in Operations Management, with applications in service industries, healthcare and the public sector. I am Department Editor of the [M&SOM](https://pubsonline.informs.org/journal/msom) journal from the [INFORMS](https://www.informs.org/) research community.
 
 This page includes:
 - [Research publications](#research-publications).
@@ -10,7 +10,9 @@ This page includes:
 - Teaching material: Check [hands-on-analytics](https://maolivar.github.io/hands-on-analytics/)
 
 Other links:
-[Page at the University of Chile](https://www.dii.uchile.cl/quien/marcelo-olivares/)
+- [Page at the University of Chile](https://www.dii.uchile.cl/quien/marcelo-olivares/)
+- [ORCID](https://orcid.org/0000-0001-8465-624X)
+- [ResearchId](https://www.webofscience.com/wos/author/record/AAT-6257-2020)
 
 ### Research Publications
 
