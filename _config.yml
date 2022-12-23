@@ -1,1 +1,6 @@
-theme: jekyll-theme-slate
+title: Marcelo Olivares
+logo: /assets/img/logo.png
+description: My personal academic webpage.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
