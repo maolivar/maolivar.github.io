@@ -4,3 +4,5 @@ description: My personal academic webpage.
 show_downloads: no
 google_analytics:
 theme: jekyll-theme-minimal
+kramdown:
+  input: Kramdown
