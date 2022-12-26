@@ -10,9 +10,9 @@ This page includes:
 - Teaching material: Check [hands-on-analytics](https://maolivar.github.io/hands-on-analytics/)
 
 Other links:
-- [Page at the University of Chile](https://www.dii.uchile.cl/quien/marcelo-olivares/){:target="_blank"}
-- [ORCID](https://orcid.org/0000-0001-8465-624X){:target="_blank"}
-- [ResearchId](https://www.webofscience.com/wos/author/record/AAT-6257-2020){:target="_blank"}
+- [Page at the University of Chile](https://www.dii.uchile.cl/quien/marcelo-olivares/){:target="_blank" rel="noopener"}
+- [ORCID](https://orcid.org/0000-0001-8465-624X){:target="_blank" rel="noopener"}
+- [ResearchId](https://www.webofscience.com/wos/author/record/AAT-6257-2020){:target="_blank" rel="noopener"}
 
 ### Research Publications
 
