@@ -7,6 +7,7 @@ My research focuses on empirical research in Operations Management, with applica
 This page includes:
 
 - [Research publications](#research-publications).
+-  [Working papers](#working-papers).
 - My [Curriculum Vita](https://www.dropbox.com/s/9yc10f1gmcaec5v/cv_Marcelo_Olivares.pdf?dl=0)
 - Teaching material: Check [hands-on-analytics](https://maolivar.github.io/hands-on-analytics/)
 
@@ -15,6 +16,17 @@ Other links:
 - [Page at the University of Chile](https://www.dii.uchile.cl/quien/marcelo-olivares/){:target="_blank" rel="noopener"}
 - [ORCID](https://orcid.org/0000-0001-8465-624X){:target="_blank" rel="noopener"}
 - [ResearchId](https://www.webofscience.com/wos/author/record/AAT-6257-2020){:target="_blank" rel="noopener"}
+
+### Working Papers
+
+Olivares, M., Saban, D., Weintraub, G., Lara, E., Zanocco, P., Moreno, P.
+"Market Re-Design of Framework Agreements in Chile Reduces Government Procurement Spending."
+[link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4327950)
+
+Bucarey, V., Olivares, M., Yung, D. 
+"Labor Planning and Shift Scheduling in Retail Stores Using Customer Traffic Data"
+[link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695353)
+
 
 ### Research Publications
 
