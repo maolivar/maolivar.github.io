@@ -1,4 +1,4 @@
-## Marcelo Olivares academic webpage
+## About
 
 I am an Associate Professor of [Industrial Engineering](https://www.dii.uchile.cl/)  at the [University of Chile](https://www.uchile.cl/) and researcher at [Instituto Sistemas Complejos de Ingenieria](https://isci.cl/en/). I am also an Associate Adjunct Professor at [Columbia Business School](https://business.columbia.edu/faculty/divisions/dro).
 
@@ -16,6 +16,8 @@ Other links:
 - [Page at the University of Chile](https://www.dii.uchile.cl/quien/marcelo-olivares/){:target="_blank" rel="noopener"}
 - [ORCID](https://orcid.org/0000-0001-8465-624X){:target="_blank" rel="noopener"}
 - [ResearchId](https://www.webofscience.com/wos/author/record/AAT-6257-2020){:target="_blank" rel="noopener"}
+
+## Research
 
 ### Working Papers
 
