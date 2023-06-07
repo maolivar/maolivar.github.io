@@ -34,12 +34,13 @@ Bucarey, V., Olivares, M., Yung, D.
 
 Basso, L., Goic, M., Olivares, M., Saure, D., Thraves, C., Weintraub,
 G., et al. “Analytics Saves Lives during the Covid-19 Crisis in Chile.”
-*Forthcoming in INFORMS Journal of Applied Analytics*, Franz Edelman
-Special issue.
+*INFORMS Journal of Applied Analytics*, 53(1), pp. 1--95, Franz Edelman
+Special issue.[doi:10.1287/inte.2022.1149](https://doi.org/10.1287/inte.2022.1149 )
 
 Olivares, M., Musalem, A., and Yung, D. “Balancing Agent Retention and
-Waiting Time in Service Platforms.” *Forthcoming in Operations
-Research*, Special Issue on Behavioral Queuing Science.
+Waiting Time in Service Platforms.” *Operations
+Research*, 71(3), pp. 791--1020, Special Issue on Behavioral Queuing Science. [doi:10.1287/opre.2022.2418](https://doi.org/10.1287/opre.2022.2418)
+
 
 Magga, L., Maturana, S., Olivares, M., Valdevenito, M., Cabezas, J.,
 Chapochnick, J., González, F., Kompatzki, A., Muller, H., Pefaur, J.,
