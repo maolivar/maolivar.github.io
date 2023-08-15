@@ -112,7 +112,7 @@ Patient Outcomes” *Management Science*, 61(1): 19-38.
 Kim, S.W., Olivares, M., Weintraub, G. “Measuring the Performance of
 Large-Scale Combinatorial Auctions: A Structural Estimation Approach”
 *Management Science* 60(5), 1180–1201.
-hrefhttps://doi.org/10.1287/mnsc.2013.1814doi:10.1287/mnsc.2013.1814
+[doi:10.1287/mnsc.2013.1814](https://doi.org/10.1287/mnsc.2013.1814)
 
 Lu, Y., Musalem, A., Olivares, M. and Schilkrut, A. “Measuring the
 Effect of Queues on Customer Purchases” *Management Science* 59(8),

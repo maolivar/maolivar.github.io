@@ -1,8 +1,8 @@
 title: Marcelo Olivares
 logo: /assets/img/personalphoto_DII.jpg
-description: My personal academic webpage.
+description: Academic webpage.
 show_downloads: no
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 kramdown:
   input: Kramdown
