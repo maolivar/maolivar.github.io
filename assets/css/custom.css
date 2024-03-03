@@ -5,10 +5,10 @@ body {
 
 /* Change hyperlink color */
 a, a:visited {
-    color: #007bff; /* New color for links */
+    color: #004085; /* Dark blue for better contrast on white background */
 }
 
 /* Change hyperlink hover color */
 a:hover {
-    color: #0056b3; /* New color for hover state */
+    color: #002752; /* Even darker blue for hover state */
 }
