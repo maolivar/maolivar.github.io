@@ -3,12 +3,14 @@ body {
     font-size: 16px; /* Adjust the font size as needed */
 }
 
-/* Change hyperlink color */
+/* Change hyperlink color and make it bolder */
 a, a:visited {
     color: #004085; /* Dark blue for better contrast on white background */
+    font-weight: bold; /* Makes the link text bolder */
 }
 
 /* Change hyperlink hover color */
 a:hover {
     color: #002752; /* Even darker blue for hover state */
+    font-weight: bold; /* Keeps the link text bold on hover */
 }
