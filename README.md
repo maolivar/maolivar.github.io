@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 ## About
 
 I am an Associate Professor of [Industrial Engineering](https://www.dii.uchile.cl/)  at the [University of Chile](https://www.uchile.cl/) and researcher at [Instituto Sistemas Complejos de Ingenieria](https://isci.cl/en/). I am also an Associate Adjunct Professor at [Columbia Business School](https://business.columbia.edu/faculty/divisions/dro).
