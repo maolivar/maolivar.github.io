@@ -2,7 +2,7 @@
 
 ## About
 
-I am an Associate Professor of [Industrial Engineering](https://www.dii.uchile.cl/)  at the [University of Chile](https://www.uchile.cl/) and researcher at [Instituto Sistemas Complejos de Ingenieria](https://isci.cl/en/). I am also an Associate Adjunct Professor at [Columbia Business School](https://business.columbia.edu/faculty/divisions/dro).
+I am an Associate Professor in the  [School of Economics and Business](https://fen.uchile.cl/es)  at the [University of Chile](https://www.uchile.cl/) and researcher at [Instituto Sistemas Complejos de Ingenieria](https://isci.cl/en/). I am also an Associate Adjunct Professor at [Columbia Business School](https://business.columbia.edu/faculty/divisions/dro).
 
 My research focuses on empirical research in Operations Management, with applications in service industries, healthcare and the public sector. I am Department Editor of the [M&SOM](https://pubsonline.informs.org/journal/msom) journal from the [INFORMS](https://www.informs.org/) research community.
 
@@ -22,6 +22,10 @@ Other links:
 ## Research
 
 ### Working Papers
+
+Celhay, P. A., Gertler, P., Olivares, M., & Undurraga, R.
+"How Managers Can Use Purchaser Performance Information to Improve Procurement Efficiency"
+[NBER working paper 32141](https://www.nber.org/papers/w32141)
 
 Olivares, M., Saban, D., Weintraub, G., Lara, E., Zanocco, P., Moreno, P.
 "Market Re-Design of Framework Agreements in Chile Reduces Government Procurement Spending."
