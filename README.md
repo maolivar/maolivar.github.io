@@ -15,6 +15,7 @@ This page includes:
 
 Other links:
 
+- [My substack](https://marceloolivares.substack.com/) with posts and reports for the general public.
 - [Page at the University of Chile](https://www.dii.uchile.cl/quien/marcelo-olivares/){:target="_blank" rel="noopener"}
 - [ORCID](https://orcid.org/0000-0001-8465-624X){:target="_blank" rel="noopener"}
 - [ResearchId](https://www.webofscience.com/wos/author/record/AAT-6257-2020){:target="_blank" rel="noopener"}
@@ -27,16 +28,16 @@ Celhay, P. A., Gertler, P., Olivares, M., & Undurraga, R.
 "How Managers Can Use Purchaser Performance Information to Improve Procurement Efficiency"
 [NBER working paper 32141](https://www.nber.org/papers/w32141)
 
-Olivares, M., Saban, D., Weintraub, G., Lara, E., Zanocco, P., Moreno, P.
-"Market Re-Design of Framework Agreements in Chile Reduces Government Procurement Spending."
-[link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4327950)
-
 Bucarey, V., Olivares, M., Yung, D. 
 "Labor Planning and Shift Scheduling in Retail Stores Using Customer Traffic Data"
 [link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3695353)
 
-
 ### Research Publications
+
+Olivares, M., Saban, D., Weintraub, G., Lara, E., Zanocco, P., Moreno, P.
+"Saving Millions in Government Procurement Through Data Science and Market Design", forthcoming
+*Informs Journal of Applied Analytics*
+[link to SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4327950)
 
 Basso, L., Goic, M., Olivares, M., Saure, D., Thraves, C., Weintraub,
 G., et al. “Analytics Saves Lives during the Covid-19 Crisis in Chile.”
