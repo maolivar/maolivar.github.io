@@ -34,6 +34,11 @@ Bucarey, V., Olivares, M., Yung, D.
 
 ### Research Publications
 
+van de Klundert, J., Perez-Galarce, F., Olivares, M., Pengel, L., de Weerd, A.  
+“The comparative performance of models predicting patient and graft survival after kidney transplantation: A systematic review”
+*Transplantation Reviews*, 29(3)  
+[link to article](https://doi.org/10.1016/j.trre.2025.100934)
+
 Olivares, M., Saban, D., Weintraub, G., Lara, E., Zanocco, P., Moreno, P.
 "Saving Millions in Government Procurement Through Data Science and Market Design", forthcoming
 *Informs Journal of Applied Analytics*
