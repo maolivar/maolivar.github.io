@@ -5,5 +5,6 @@ type: "Keynote Plenary"
 permalink: /talks/2024-05-01-market-innovation-workshop
 venue: "Market Innovation Workshop"
 date: 2024-05-01
-location: "May"
+location: "Online"
+slidesurl: "/files/talks/keynote-talk-MIW-may2024.pdf"
 ---
