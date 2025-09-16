@@ -44,6 +44,9 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if post.courseurl %}
+            <p><a href="{{ post.courseurl }}">Download Syllabus</a></p>
+          {% endif %}
         {% elsif post.collection == 'publications' %}
           <p><i>{{ post.venue }}</i>{% if post.volume %}, {{ post.volume }}{% endif %}{% if post.pages %}, {{ post.pages }}{% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }}{% if post.doi %} | <a href="https://doi.org/{{ post.doi }}">DOI: {{ post.doi }}</a>{% endif %}</p>
         {% elsif post.date %}
