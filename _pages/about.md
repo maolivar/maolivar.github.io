@@ -13,15 +13,25 @@ I am an Associate Professor in the [School of Economics and Business](https://fe
 
 My research focuses on empirical research in Operations Management, with applications in service industries, healthcare and the public sector. I am Department Editor of the [M&SOM](https://pubsonline.informs.org/journal/msom) journal from the [INFORMS](https://www.informs.org/) research community.
 
-This page includes:
+## Recent Publications
 
-- [Research publications](#research-publications).
-- [Working papers](#working-papers).
+{% for post in site.publications limit:5 %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Working Papers
+
+{% for post in site.publications %}
+  {% if post.status == "working paper" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Links
+
+- [All Publications]({{ '/publications/' | relative_url }})
 - My [Curriculum Vita](https://www.dropbox.com/s/9yc10f1gmcaec5v/cv_Marcelo_Olivares.pdf?dl=0)
 - Teaching material: Check [hands-on-analytics](https://maolivar.github.io/hands-on-analytics/)
-
-Other links:
-
 - [My substack](https://marceloolivares.substack.com/) with posts and reports for the general public.
 - [Page at the University of Chile](https://www.dii.uchile.cl/quien/marcelo-olivares/){:target="_blank" rel="noopener"}
 - [ORCID](https://orcid.org/0000-0001-8465-624X){:target="_blank" rel="noopener"}
