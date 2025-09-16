@@ -9,23 +9,10 @@ redirect_from:
 
 ## About
 
-I am an Associate Professor in the [School of Economics and Business](https://fen.uchile.cl/es) at the [University of Chile](https://www.uchile.cl/) and researcher at [Instituto Sistemas Complejos de Ingenieria](https://isci.cl/en/). I am also an Associate Adjunct Professor at [Columbia Business School](https://business.columbia.edu/faculty/divisions/dro).
+I am an Full Professor in the [School of Economics and Business](https://fen.uchile.cl/es) at the [University of Chile](https://www.uchile.cl/) and researcher at [Instituto Sistemas Complejos de Ingenieria](https://isci.cl/en/). I am also an Associate Adjunct Professor at [Columbia Business School](https://business.columbia.edu/faculty/divisions/dro).
 
 My research focuses on empirical research in Operations Management, with applications in service industries, healthcare and the public sector. I am Department Editor of the [M&SOM](https://pubsonline.informs.org/journal/msom) journal from the [INFORMS](https://www.informs.org/) research community.
 
-## Recent Publications
-
-{% for post in site.publications limit:5 %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Working Papers
-
-{% for post in site.publications %}
-  {% if post.status == "working paper" %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
 
 ## Links
 
@@ -33,6 +20,6 @@ My research focuses on empirical research in Operations Management, with applica
 - My [Curriculum Vita](https://www.dropbox.com/s/9yc10f1gmcaec5v/cv_Marcelo_Olivares.pdf?dl=0)
 - Teaching material: Check [hands-on-analytics](https://maolivar.github.io/hands-on-analytics/)
 - [My substack](https://marceloolivares.substack.com/) with posts and reports for the general public.
-- [Page at the University of Chile](https://www.dii.uchile.cl/quien/marcelo-olivares/){:target="_blank" rel="noopener"}
+- [Page at the University of Chile](https://fen.uchile.cl/academicos/marcelo-olivares/){:target="_blank" rel="noopener"}
 - [ORCID](https://orcid.org/0000-0001-8465-624X){:target="_blank" rel="noopener"}
 - [ResearchId](https://www.webofscience.com/wos/author/record/AAT-6257-2020){:target="_blank" rel="noopener"}
