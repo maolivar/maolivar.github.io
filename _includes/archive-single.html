@@ -44,6 +44,9 @@
 
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% if post.programurl %}
+            <p><a href="{{ post.programurl }}" target="_blank" rel="noopener">Program Information</a></p>
+          {% endif %}
           {% if post.courseurl %}
             <p><a href="{{ post.courseurl }}">Download Syllabus</a></p>
           {% endif %}

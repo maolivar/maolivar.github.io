@@ -9,13 +9,13 @@ redirect_from:
 
 ## About
 
-I am an Full Professor in the [School of Economics and Business](https://fen.uchile.cl/es) at the [University of Chile](https://www.uchile.cl/) and researcher at [Instituto Sistemas Complejos de Ingenieria](https://isci.cl/en/). I am also an Associate Adjunct Professor at [Columbia Business School](https://business.columbia.edu/faculty/divisions/dro).
+I am an Full Professor in the [Facultad de Economia y Negocios](https://fen.uchile.cl/es) (School of Economics and Business) at the [University of Chile](https://www.uchile.cl/) and researcher at [Instituto Sistemas Complejos de Ingenieria](https://isci.cl/en/). I am also an Associate Adjunct Professor at [Columbia Business School](https://business.columbia.edu/faculty/divisions/dro).
 
 My research focuses on empirical research in Operations Management, with applications in service industries, healthcare and the public sector. I am Department Editor of the [M&SOM](https://pubsonline.informs.org/journal/msom) journal from the [INFORMS](https://www.informs.org/) research community.
 
 
 ## Links
-
+- [Workshop in Management Science](https://msworkshop.cl/) (annual conference in Chile)
 - [All Research]({{ '/publications/' | relative_url }})
 - My [Curriculum Vita](https://www.dropbox.com/s/9yc10f1gmcaec5v/cv_Marcelo_Olivares.pdf?dl=0)
 - Teaching material: Check [hands-on-analytics](https://maolivar.github.io/hands-on-analytics/)
