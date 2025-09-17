@@ -7,6 +7,6 @@ volume: "71(3)"
 pages: "791-1020"
 doi: "10.1287/opre.2022.2418"
 link: "https://doi.org/10.1287/opre.2022.2418"
-publication_type: "manuscript"
+publication_type: "publication"
 note: "Special Issue on Behavioral Queuing Science"
 ---

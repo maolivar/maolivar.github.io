@@ -16,7 +16,7 @@ My research focuses on empirical research in Operations Management, with applica
 
 ## Links
 
-- [All Publications]({{ '/publications/' | relative_url }})
+- [All Research]({{ '/publications/' | relative_url }})
 - My [Curriculum Vita](https://www.dropbox.com/s/9yc10f1gmcaec5v/cv_Marcelo_Olivares.pdf?dl=0)
 - Teaching material: Check [hands-on-analytics](https://maolivar.github.io/hands-on-analytics/)
 - [My substack](https://marceloolivares.substack.com/) with posts and reports for the general public.

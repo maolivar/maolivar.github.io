@@ -7,5 +7,5 @@ volume: "14(2)"
 pages: "90-109"
 doi: "10.1287/serv.2021.0290"
 link: "https://doi.org/10.1287/serv.2021.0290"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

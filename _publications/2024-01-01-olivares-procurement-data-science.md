@@ -7,5 +7,5 @@ volume: "55(2)"
 pages: "101-120"
 doi: "10.1287/inte.2023.0002"
 link: "https://doi.org/10.1287/inte.2023.0002"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

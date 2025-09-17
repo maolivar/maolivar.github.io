@@ -5,5 +5,5 @@ date: 2013-01-01
 venue: "Management Science"
 volume: "59(8)"
 pages: "1743-1763"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

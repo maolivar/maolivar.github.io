@@ -7,5 +7,5 @@ volume: "68(3)"
 pages: "2016-2027"
 doi: "10.1287/mnsc.2021.4240"
 link: "https://doi.org/10.1287/mnsc.2021.4240"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

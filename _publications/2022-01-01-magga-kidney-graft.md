@@ -7,5 +7,5 @@ volume: "58(10)"
 pages: "1348"
 doi: "10.3390/medicina58101348"
 link: "https://doi.org/10.3390/medicina58101348"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

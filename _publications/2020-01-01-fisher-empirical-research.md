@@ -7,5 +7,5 @@ volume: "22(1)"
 pages: "170-178"
 doi: "10.1287/msom.2019.0812"
 link: "https://doi.org/10.1287/msom.2019.0812"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

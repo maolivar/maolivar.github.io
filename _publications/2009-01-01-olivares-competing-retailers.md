@@ -5,5 +5,5 @@ date: 2009-01-01
 venue: "Management Science"
 volume: "55(9)"
 pages: "1586-1604"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

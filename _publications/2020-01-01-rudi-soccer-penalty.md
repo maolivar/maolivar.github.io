@@ -7,5 +7,5 @@ volume: "15(12)"
 pages: "e0243786"
 doi: "10.1371/journal.pone.0243786"
 link: "https://doi.org/10.1371/journal.pone.0243786"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

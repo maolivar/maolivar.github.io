@@ -6,5 +6,5 @@ venue: "Transplantation Reviews"
 volume: "29(3)"
 doi: "10.1016/j.trre.2025.100934"
 link: "https://doi.org/10.1016/j.trre.2025.100934"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

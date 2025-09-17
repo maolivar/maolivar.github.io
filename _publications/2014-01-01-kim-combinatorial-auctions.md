@@ -7,5 +7,5 @@ volume: "60(5)"
 pages: "1180-1201"
 doi: "10.1287/mnsc.2013.1814"
 link: "https://doi.org/10.1287/mnsc.2013.1814"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

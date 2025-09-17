@@ -7,5 +7,5 @@ volume: "22(4)"
 pages: "645-867"
 doi: "10.1287/msom.2018.0755"
 link: "https://doi.org/10.1287/msom.2018.0755"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

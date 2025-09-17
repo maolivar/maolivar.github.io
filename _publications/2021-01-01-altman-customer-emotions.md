@@ -7,5 +7,5 @@ volume: "23(4)"
 pages: "854-875"
 doi: "10.1287/msom.2020.0897"
 link: "https://doi.org/10.1287/msom.2020.0897"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

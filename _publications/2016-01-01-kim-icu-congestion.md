@@ -7,5 +7,5 @@ volume: "44(10)"
 pages: "1814-1821"
 doi: "10.1097/CCM.0000000000001850"
 link: "https://doi.org/10.1097/CCM.0000000000001850"
-publication_type: "manuscript"
+publication_type: "publication"
 ---

@@ -7,5 +7,5 @@ volume: "58(8)"
 pages: "1458-1481"
 doi: "10.1287/mnsc.1110.1496"
 link: "https://doi.org/10.1287/mnsc.1110.1496"
-publication_type: "manuscript"
+publication_type: "publication"
 ---
