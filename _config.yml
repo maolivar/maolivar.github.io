@@ -26,11 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Marcelo Olivares"
   pronouns         : # example: "she/her"  
-  bio              : "Professor in the School of Economics and Business at the University of Chile\nAssociate Adjunct Professor at Columbia Business School"
+  bio              : "Professor, Facultad de Economia y Negocios, University of Chile"
   location         : "Santiago, Chile"
-  employer         : "University of Chile"
-  uri              : # URL
-  email            : "marcelo.olivares@uchile.cl" 
+  employer         : "FEN - U de Chile"
+  uri              : "https://fen.uchile.cl/academicos/marcelo-olivares/"
+  email            : "marcelo.olivares@uchile.cl"
+  cv               : "https://www.dropbox.com/scl/fi/16cc85ngx95jbju22dvpg/cv_Marcelo_Olivares.pdf?rlkey=s9g4n44k4ev87gq4fdf0upiqq&e=1&dl=0" 
 
   # Academic websites
   academia         : # URL
